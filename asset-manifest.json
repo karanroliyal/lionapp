@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lionapp/static/css/main.ae196eb1.css",
+    "main.js": "/lionapp/static/js/main.79527fcc.js",
+    "static/js/787.d700cbaa.chunk.js": "/lionapp/static/js/787.d700cbaa.chunk.js",
+    "static/media/logo.svg": "/lionapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lionapp/index.html",
+    "main.ae196eb1.css.map": "/lionapp/static/css/main.ae196eb1.css.map",
+    "main.79527fcc.js.map": "/lionapp/static/js/main.79527fcc.js.map",
+    "787.d700cbaa.chunk.js.map": "/lionapp/static/js/787.d700cbaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae196eb1.css",
+    "static/js/main.79527fcc.js"
+  ]
+}
